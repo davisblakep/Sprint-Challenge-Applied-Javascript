@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The DOM is the Document Object Module which is basically just the website and all of its inner workings.
+
 2. What is an event?
+
+An Event is a user action like clicking the mouse, hovering the mouse, using the scroll wheel, etc.
 
 3. What is an event listener?
 
+And event listener is a code that will be assigned to a specific item like a title, an image, etc. and wait for an assigned user action like a click from the mouse, then perform a specific action.
+
 4. Why would we convert a NodeList into an Array?
 
+Using Array.from()
+
 5. What is a component?
+
+A component is basically like a function that will allow you to create a set of HTML items each time the function is called.  A way I think of it is similar to having a pre-built template that can be used to all have similar properties but with the option of passing additional parameters like Text into their elements.
 
 ### Git Set up
 
